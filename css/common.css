@@ -27,7 +27,10 @@ container - fit center element
   width: 1200px;
   height: auto;
   margin: auto;
-}
+ }
 
- 
+ /* DOT Bottom */
+ .dot-bottom{
+  border-bottom: 2px dotted #eee;
+ }
  
